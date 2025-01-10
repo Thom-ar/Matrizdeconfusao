@@ -1,7 +1,7 @@
 # Matriz de confusao
 ### Descrição do Código
 
-Este projeto visa a partir de uma matriz de confusão existente avaliar o desempenho de um modelo de classificação em Python. O código está contido no arquivo Jupyter Notebook `Construindo_uma_Matriz_de_Confusão_em_Python.ipynb`.
+Este projeto visa, a partir de uma matriz de confusão existente, avaliar o desempenho de um modelo de classificação em Python. O código está contido no arquivo Jupyter Notebook `Construindo_uma_Matriz_de_Confusão_em_Python.ipynb`.
 
 #### Passos do Código
 
